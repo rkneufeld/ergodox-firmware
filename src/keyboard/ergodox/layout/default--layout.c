@@ -90,7 +90,7 @@ KB_MATRIX_LAYER(
 	0,	
 	// left hand
 	0,	KEY_F1,	KEY_F2,	KEY_F3,	KEY_F4,	KEY_F5,	KEY_F11,	
-	0,	0,	KEY_UpArrow,	KEYPAD_LeftParenthesis,	KEYPAD_RightParenthesis,	0,	0,	
+	0,	0,	KEY_UpArrow,	KEY_9_LeftParenthesis,	KEY_0_RightParenthesis,	0,	0,	
 	0,	KEY_LeftArrow,	KEY_DownArrow,	KEY_RightArrow,	0,	0,	
 	0,	0,	0,	0,	0,	0,	0,	
 	0,	0,	0,	0,	0,	
@@ -325,7 +325,7 @@ KB_MATRIX_LAYER(
 	NULL,	
 	// left hand
 	NULL,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	
-	NULL,	NULL,	kprrel,	kprrel,	kprrel,	NULL,	NULL,	
+	NULL,	NULL,	kprrel,	sshprre,	sshprre,	NULL,	NULL,	
 	NULL,	kprrel,	kprrel,	kprrel,	NULL,	NULL,	
 	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,	
 	NULL,	NULL,	NULL,	NULL,	NULL,	
